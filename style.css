@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;;
+}
+
+.primary-color {
+    background-color: #18978F;
+}
+
+.secondary-color {
+    background-color: #3CFDDA;
+}
+
+.height-32 {
+    height: 32px;
+}
+
+.height-63 {
+    height: 63px;
+}
+
+.height-83 {
+    height: 83px;
+}
+
+.height-122 {
+    height: 122px;
+}
+
+.font-size-12 {
+    font-size: 12px;
+}
